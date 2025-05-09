@@ -1,3 +1,7 @@
+ ---
+     layout: default
+     title: Getting Started
+---
 <STYLE>
     body {
         background: black;
@@ -17,8 +21,6 @@
     }
   
 </style>
-
-# Getting Started
 
 ### Setup
 - Install `Bakkesmod`

@@ -1,3 +1,23 @@
+<STYLE>
+    body {
+        background: black;
+        color: #91ecBE;
+    }    
+    li {
+        color: #be91ec;
+    }
+    h2 {
+        color: #ecbe91;
+    }
+    h5 {
+        color:red;
+    }
+    h6 {
+        color:#355;
+    }
+  
+</style>
+
 # Getting Started
 
 ### Setup

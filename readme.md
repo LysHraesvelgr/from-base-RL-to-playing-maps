@@ -15,7 +15,10 @@
     h6 {
         color:#355;
     }
-  
+    code {
+        background:hsl(270, 70.50%, 18.67%);
+        color: #ffffff;
+    }
 </style>
 
 ### Setup

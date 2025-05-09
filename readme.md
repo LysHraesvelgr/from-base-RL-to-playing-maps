@@ -1,10 +1,10 @@
- ---
+---
      layout: default
      title: Getting Started
 ---
 <STYLE>
     body {
-        background: black;
+        background: #050505;
         color: #91ecBE;
     }    
     li {

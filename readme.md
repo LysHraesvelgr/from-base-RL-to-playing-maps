@@ -54,7 +54,7 @@
     - choose solo if it asks
 
 ### [Video][medal] Demonstration
-
+###### → Begins after having already installed bakkes
 <iframe width='720' height='540' style='border: none;' src='https://medal.tv/games/rocket-league/clip/12Xmbtj0RNezTp' allow='autoplay' allowfullscreen></iframe>
 
 ---

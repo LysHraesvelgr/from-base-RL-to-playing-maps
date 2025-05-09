@@ -1,7 +1,3 @@
----
-layout: default
-title: Getting Started
----
 <STYLE>
     body {
         background: #050505;

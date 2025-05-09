@@ -63,7 +63,8 @@
 - **View [here][medal] if the above doesn't play properly**
 
 ---
-[bakkes]: "https://github.com/bakkesmodorg/BakkesModInjectorCpp/releases/latest/download/BakkesModSetup.zip"
+[bakkes]: https://lyshraesvelgr.github.io/http-protocol-redirector?r=https://github.com/bakkesmodorg/BakkesModInjectorCpp/releases/latest/download/BakkesModSetup.zip
 [medal]: https://medal.tv/clips/12Xmbtj0RNezTp/vpvizUDLx
+[223d]: bakkesmod://install/223
 [223]: https://lyshraesvelgr.github.io/http-protocol-redirector?r=bakkesmod://install/223
 [vid]: https://lyshraesvelgr.github.io/from-base-RL-to-playing-maps/#video-demonstration

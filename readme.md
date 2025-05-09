@@ -55,7 +55,7 @@
 
 ### [Video][medal] Demonstration
 
-<iframe width='640' height='360' style='border: none;' src='https://medal.tv/games/rocket-league/clip/12Xmbtj0RNezTp?invite=cr-MSx0eVEsNDM0NDQwNzE' allow='autoplay' allowfullscreen></iframe>
+<iframe width='720' height='480' style='border: none;' src='https://medal.tv/games/rocket-league/clip/12Xmbtj0RNezTp' allow='autoplay' allowfullscreen></iframe>
 
 ---
 [bakkes]: "https://github.com/bakkesmodorg/BakkesModInjectorCpp/releases/latest/download/BakkesModSetup.zip"

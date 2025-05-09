@@ -27,7 +27,7 @@
 
 - once bakkes is running, Install Plugin #223, `Workshop Map Loader`
     - [bakkesmod://install/223][223]
-    - or install it using the `plugin manager` in game [shown in [video][medal]]
+    - or install it using the `plugin manager` in game [shown in [video][vid]]
 
 - Open `Rocket League`
 
@@ -56,11 +56,14 @@
 - Click and launch your map
     - choose solo if it asks
 
-### [Video][medal] Demonstration
+### Video Demonstration
 ###### → Begins after having already installed bakkes
 <iframe width='720' height='540' style='border: none;' src='https://medal.tv/games/rocket-league/clip/12Xmbtj0RNezTp' allow='autoplay' allowfullscreen></iframe>
+
+- **View [here][medal] if the above doesn't play properly**
 
 ---
 [bakkes]: "https://github.com/bakkesmodorg/BakkesModInjectorCpp/releases/latest/download/BakkesModSetup.zip"
 [medal]: https://medal.tv/clips/12Xmbtj0RNezTp/vpvizUDLx
 [223]: https://lyshraesvelgr.github.io/http-protocol-redirector?r=bakkesmod://install/223
+[vid]: https://lyshraesvelgr.github.io/from-base-RL-to-playing-maps/#video-demonstration
